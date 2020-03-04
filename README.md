@@ -3,7 +3,7 @@ Various algorithms to track neurons in a deforming brain
 
 ## Hermaphrodite Detection
 
-### Approximate Truth generation:
+### Approximate Truth generation: mask-train-prepare.ipynb
 This notebook generates an approximate truth to train a Neural Network
 
 ### Training U-Net: Seg-UNet.ipynb
