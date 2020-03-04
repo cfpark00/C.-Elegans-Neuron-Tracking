@@ -8,7 +8,9 @@ This notebook generates an approximate truth to train a Neural Network
 
 ### Training U-Net: Seg-UNet.ipynb
 This notebook trains a U-Net architecture to mask out the Hermaphrodite.
+
 Implementation modified from: https://github.com/milesial/Pytorch-UNet
+
 Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox: https://arxiv.org/abs/1505.04597
 
 ### Applying U-Net: Apply-Mask.ipynb
@@ -29,6 +31,7 @@ This notebook explains how to put all the peaks in a certain posture, described 
 
 ## Segmentation
 This part partially implements (without centerline detection and error correction):
+
 Jeffrey P. Nguyen, Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz, and Andrew M. Leifer: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436637/
 
 ### Applying a Thin Plate Spline: TPS.ipynb
