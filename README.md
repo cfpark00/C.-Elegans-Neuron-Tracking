@@ -29,6 +29,9 @@ This notebook generates a standard posture to straighten the worms.
 ### Worm Straightening: straighten.ipynb
 This notebook explains how to put all the peaks in a certain posture, described by a potential well.
 
+### Choosing Goodframes: Filter-Frames.ipynb
+This notebook chooses only the good frames from the straightening.
+
 ## Segmentation
 This part partially implements (without centerline detection and error correction):
 
