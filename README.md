@@ -18,7 +18,7 @@ This notebook applies the U-Net to images to mask out the Hermaphrodite
 
 ## Peak detection
 
-### Analytic peak detection: get_peaks.ipynb
+### Analytic peak detection: Get-Peaks.ipynb
 This notebook explains how to get peaks from raw images. This algorithm is very primitive and unstable.
 
 ## Worm Straightening
