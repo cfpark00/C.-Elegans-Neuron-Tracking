@@ -34,12 +34,12 @@ This part partially implements (without centerline detection and error correctio
 
 Jeffrey P. Nguyen, Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz, and Andrew M. Leifer: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436637/
 
-### Applying a Thin Plate Spline: TPS.ipynb
-This part is a tiny modification of: https://github.com/bing-jian/gmmreg-python due to some memory leak issues.
-This notebook explains the Thin Plate Spline Point Set Registration method.
+### Applying a Thin Plate Spline: Create_Refs.ipynb
+This part contains a modification of: https://github.com/bing-jian/gmmreg-python due to some memory leak issues.
+This notebook explains the Thin Plate Spline Point Set Registration method and neuron registration vectors construction.
 
 ### Neuron Segmentation: track.ipynb
-This notebook explains the paper's method of constructing neuron registration vectors and clustering them.
+This notebook explains the paper's method clustering the neuron registration vectors.
 
 Contact: corefranciscopark@g.harvard.edu / cfpark00@gmail.com
 
